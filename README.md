@@ -36,7 +36,11 @@ The system calculates and displays the total food donated, total food distribute
 Step 8: Exit the Program
 After completing all operations, the user selects the exit option to close the program.
 
+# Overview of Inputs-
+
 <img width="351" height="487" alt="Screenshot 2026-11-03 150021" src="https://github.com/user-attachments/assets/9da43eb9-5ac8-46f0-8594-69481f715f83" />
 <img width="488" height="481" alt="Screenshot 2026-11-03 150044" src="https://github.com/user-attachments/assets/b5cbe04d-418e-495b-bf53-8c56c76ad789" />
+
+# Overview of Outputs-
 <img width="268" height="353" alt="Screenshot 2026-11-03 150136" src="https://github.com/user-attachments/assets/9fcaa4af-eae0-402a-bad5-be2076ffe3f0" />
 <img width="256" height="429" alt="Screenshot 2026-11-03 150234" src="https://github.com/user-attachments/assets/0e51a20b-dd31-4d4c-9c79-31bfaee1c2d2" />
